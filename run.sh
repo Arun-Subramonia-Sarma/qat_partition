@@ -1,0 +1,1 @@
+./liquibase --changelog-file changelog.xml --url=jdbc:postgresql://dynamicyardfusion-13-qat.c2d5htxcqrdu.us-east-1.rds.amazonaws.com:5432/yms_partition --username=fkadmin --password=FEABD2ED788AE --default-schema-name=public update
